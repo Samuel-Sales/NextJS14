@@ -1,0 +1,1 @@
+# When the auth is have parentheses around, the routes are only /register or /login
